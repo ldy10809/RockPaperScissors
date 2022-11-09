@@ -9,7 +9,7 @@ class Button {
   
   // constructor 
   Button(int rectX_,  int rectY_, int rectW_, int rectH_, color rectC_) {
-    rectX = rectX_;
+    rectX = rectX_;dddddddddddddd
     rectY = rectY_;
     rectW = rectW_;
     rectH = rectH_;
